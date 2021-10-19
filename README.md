@@ -1,5 +1,11 @@
 # paper-notes
 
+### 2021.10.19
+
+- Data Efficient Reinforcement Learning for Legged Robots
+  - 创新点：提出高效的腿足机器人强化学习框架（10min学习）——多步损失进行长序列预测，GPU并行采样进行实时规划，动力学模型进行模型预测补偿延时
+  - 和我的联系：通过轨迹生成器（参考轨迹）鼓励更安全的探索，延时对控制效果影响很大（考虑规划控制分两个线程，异步控制）
+
 ### 2021.10.18
 
 - Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion
@@ -17,3 +23,4 @@
 - LEO: Learning Energy-based Models in Graph Optimization
   - 创新点：
   - 和我的联系：
+
