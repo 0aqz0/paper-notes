@@ -1,5 +1,11 @@
 # paper-notes
 
+### 2021.10.20
+
+- Robots that can adapt like animals
+  - 创新点：试错学习算法（建立行为-表现映射，并在试错中不断更新）帮助机器人快速适应损伤
+  - 和我的联系：研究机器人快速学习适应新的场景（遭受损伤），优化找到最优策略（选择-测试-更新）
+
 ### 2021.10.19
 
 - Data Efficient Reinforcement Learning for Legged Robots
