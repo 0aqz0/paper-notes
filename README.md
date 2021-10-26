@@ -1,5 +1,11 @@
 # paper-notes
 
+### 2021.10.25
+
+- Learning Agile Locomotion via Adversarial Training
+  - 创新点：对抗训练（一个追一个逃）学习四足机器人的敏捷运动
+  - 和我的联系：状态设计包括关节角、关节角速度、相对对抗者的位置
+
 ### 2021.10.20
 
 - Robots that can adapt like animals
