@@ -1,5 +1,11 @@
 # paper-notes
 
+### 2021.10.26
+
+- Morphology-Agnostic Visual Robotic Control
+  - 创新点：形态学未知（不精确执行、未知机器人形态、未知相机位姿）的视觉伺服控制（通过响应粒子获得自我认知）
+  - 和我的联系：考虑结合视觉进行机器人控制
+
 ### 2021.10.25
 
 - Learning Agile Locomotion via Adversarial Training
