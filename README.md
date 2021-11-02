@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.11.2
+
+- Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations
+  - 创新点：从人类指令和演示视频中学习机器人技能，在环境和指令上都具有泛化性
+  - 和我的联系：启发能够通过训练好的分类器网络作为监督（奖励），结合自然语言进行机器人技能学习
+
 ### 2021.10.26
 
 - Morphology-Agnostic Visual Robotic Control
