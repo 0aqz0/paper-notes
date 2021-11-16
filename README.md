@@ -5,6 +5,9 @@
 - Planning in Learned Latent Action Spaces for Generalizable Legged Locomotion
   - 创新点：分层控制框架中高层控制器使用隐动作控制替代用户定义的动作
   - 和我的联系：隐动作规划时通过梯度下降寻找最佳隐动作（隐空间优化），底层控制使用模型预测控制
+- Robot Motion Planning in Learned Latent Spaces
+  - 创新点：在隐空间进行机器人运动规划（自编码器网络+动力学网络+碰撞检测网络），RRT在隐空间进行状态采样
+  - 和我的联系：隐变量通过采样得到，隐空间可以起到降低状态维度的作用
 
 ## 2021.11.2
 
