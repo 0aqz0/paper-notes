@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.11.16
+
+- Planning in Learned Latent Action Spaces for Generalizable Legged Locomotion
+  - 创新点：分层控制框架中高层控制器使用隐动作控制替代用户定义的动作
+  - 和我的联系：隐动作规划时通过梯度下降寻找最佳隐动作（隐空间优化），底层控制使用模型预测控制
+
 ## 2021.11.2
 
 - Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations
