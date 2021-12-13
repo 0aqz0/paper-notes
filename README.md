@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.12.13
+
+- Generative Adversarial Imitation Learning
+  - 创新点：结合模仿学习和对抗生成网络，辨别器用于判断是专家动作还是策略动作，生成器生成动作用于混淆辨别器
+  - 和我的联系：对抗生成网络也可以用于最小化仿真到实物的差异，生成器用于补偿差异，辨别器判断是仿真还是实物
+
 ## 2021.12.10
 
 - Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability
