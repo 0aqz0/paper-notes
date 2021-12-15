@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.12.14
+
+- RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control
+  - 创新点：结合强化学习（落脚点规划、实物适应跟踪、状态恢复）和最优控制（全身运动控制）实现复杂地形的四足机器人行走
+  - 和我的联系：能够通过执行器网络对实物机器人动力学进行建模，实现仿真到实物迁移
+
 ## 2021.12.13
 
 - Generative Adversarial Imitation Learning
