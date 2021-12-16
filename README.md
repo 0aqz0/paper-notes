@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.12.16
+
+- Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills
+  - 创新点：提出机器人的通用目标是到达特定的目标状态，通过以目标为条件的Q-learning和后期重新标注，实现从已收集的数据中进行机器人技能的离线学习
+  - 和我的联系：论文中提出了几个关键问题（1）如何定义机器人通用训练目标；（2）能否通过单个模型表示丰富多样的机器人技能；（3）能否将模型应用于零样本泛化或其他任务
+
 ## 2021.12.15
 
 - Learning agile and dynamic motor skills for legged robots
@@ -23,15 +29,6 @@
 - Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability
   - 创新点：分析强化学习难以泛化的原因（有限训练样本导致部分可观性，将MDP转化为POMDP），通过多个贝叶斯模型集成解决POMDP问题
   - 和我的联系：能够训练多个不同环境设定下的模型，集成得到一个对未知环境更鲁棒的模型
-
-## 2021.11.22
-
-- Neural probabilistic motor primitives for humanoid control
-  - 创新点：使用隐变量学习大量专家策略
-  - 和我的联系：
-- Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images
-  - 创新点：
-  - 和我的联系：
 
 ## 2021.11.16
 
