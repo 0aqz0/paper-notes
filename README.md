@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.12.20
+
+- Neural probabilistic motor primitives for humanoid control
+  - 创新点：将大量鲁棒的专家策略压缩在一个共享的策略网络，学习运动基元的隐空间
+  - 和我的联系：也使用了隐空间学习，不过重点在于解决如何学习一个通用的网络表达多种多样的专家策略
+
 ## 2021.12.16
 
 - Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills
