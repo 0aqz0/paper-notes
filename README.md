@@ -36,6 +36,12 @@
   - 创新点：分析强化学习难以泛化的原因（有限训练样本导致部分可观性，将MDP转化为POMDP），通过多个贝叶斯模型集成解决POMDP问题
   - 和我的联系：能够训练多个不同环境设定下的模型，集成得到一个对未知环境更鲁棒的模型
 
+## 2021.11.22
+
+- Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images
+  - 创新点：通过VAE对高维的图像进行降维，在低维的隐空间上进行最优控制，并将非线性问题局部线性化，实现基于图像输入的控制
+  - 和我的联系：隐空间的作用之一就是对高维数据进行降维，启发在隐空间上能够做更多事情，例如规划、控制
+
 ## 2021.11.16
 
 - Planning in Learned Latent Action Spaces for Generalizable Legged Locomotion
