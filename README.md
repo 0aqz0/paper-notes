@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.12.27
+
+- Learning human behaviors from motion capture by adversarial imitation
+  - 创新点：通过对抗模仿学习GAIL（生成器用于生成动作，辨别器用于判断是否是人类动作），学习跟人的动作更接近的行为；只需要访问部分状态观测，不需要动作；通过语义标签学习基于任务的控制
+  - 和我的联系：仿真中实现了仿人机器人行走，同样不需要访问动作只需要部分状态；通过语义标签能实现基于任务的多技能学习；环境初始状态可以从动捕数据中采样得到
+
 ## 2021.12.20
 
 - Neural probabilistic motor primitives for humanoid control
