@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.12.28
+
+- Reinforcement and Imitation Learning for Diverse Visuomotor Skills
+  - 创新点：结合强化学习和模仿学习实现多样的视觉伺服技能学习（奖励设计同时包含强化学习奖励和模仿学习奖励；演示用于初始化回合；从状态中学习值网络；与物体有关、与机器人无关的辨别器；辅助任务帮助网络更好学习）
+  - 和我的联系：结合强化学习和模仿学习，这篇论文中模仿学习通过GAIL实现
+
 ## 2021.12.27
 
 - Learning human behaviors from motion capture by adversarial imitation
