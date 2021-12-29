@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2021.12.29
+
+- Hierarchical visuomotor control of humanoids
+  - 创新点：提出分层控制框架（底层电机控制器&高层任务控制器）实现仿人机器人视觉伺服控制
+  - 和我的联系：底层电机控制框架也是强化学习训练得到，通过跟踪效果（位置、速度等）设计奖励
+
 ## 2021.12.28
 
 - Reinforcement and Imitation Learning for Diverse Visuomotor Skills
