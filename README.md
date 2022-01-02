@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.1.2
+
+- Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion
+  - 创新点：提出在线的局部线性残差模型用于补偿模型的预测误差，解决动力学不准确或未知的问题
+  - 和我的联系：实物和仿真的动力学不一致，实物机器人能够通过在线补偿模型减少和仿真的差距
+
 ## 2021.12.29
 
 - Hierarchical visuomotor control of humanoids
