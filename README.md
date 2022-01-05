@@ -6,6 +6,12 @@
   - 创新点：提出使用图神经网络作为可微分的物理引擎，用于动力学模型建模（图的节点表示物体，边表示物体之间的关系）、隐式系统辨识、基于模型的控制算法
   - 和我的联系：图神经网络的归纳偏置能够更好地学习物体之间的关系，隐式系统辨识通过一段状态轨迹得到系统属性的隐层表示
 
+## 2022.1.4
+
+- Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion
+  - 创新点：提出进化轨迹生成器结合强化学习进行四足机器人运动控制，轨迹生成器通过进化策略优化轨迹
+  - 和我的联系：参考轨迹＋强化学习的框架，不同之处在于通过进化策略对参考轨迹（初始轨迹通过CPG得到）进一步优化；都是从Pybullet仿真环境到实物机器人迁移（行为克隆、域适应、观测随机化）
+
 ## 2022.1.2
 
 - Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion
