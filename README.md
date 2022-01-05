@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.1.5
+
+- Graph networks as learnable physics engines for inference and control
+  - 创新点：提出使用图神经网络作为可微分的物理引擎，用于动力学模型建模（图的节点表示物体，边表示物体之间的关系）、隐式系统辨识、基于模型的控制算法
+  - 和我的联系：图神经网络的归纳偏置能够更好地学习物体之间的关系，隐式系统辨识通过一段状态轨迹得到系统属性的隐层表示
+
 ## 2022.1.2
 
 - Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion
