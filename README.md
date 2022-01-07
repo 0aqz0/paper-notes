@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.1.6
+
+- Sim-to-Real Transfer of Robotic Control with Dynamics Randomization
+  - 创新点：提出随机化仿真器的动力学参数，来减少仿真和现实世界之间的差异；通过循环神经网络的状态隐式地辨识系统的参数
+  - 和我的联系：同样使用动力学参数随机化进行仿真到实物的迁移，尝试使用循环神经网络进行系统辨识
+
 ## 2022.1.5
 
 - Graph networks as learnable physics engines for inference and control
