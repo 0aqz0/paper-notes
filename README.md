@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.1.7
+
+- Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
+  - 创新点：提出自动策略微调的框架（更高效的强化学习算法REDQ、自动重置控制器），使得机器人能够在实物环境中进一步学习
+  - 和我的联系：机器人总会遇到新的环境，通过实物数据进一步学习，可以改善在未见过的实物环境的表现
+
 ## 2022.1.6
 
 - Sim-to-Real Transfer of Robotic Control with Dynamics Randomization
