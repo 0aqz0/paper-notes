@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.1.12
+
+- Dynamics Randomization Revisited: A Case Study for Quadrupedal Locomotion
+  - 创新点：提出动力学随机化对于仿真到实物的迁移不是必须的，更好的设计选择和关键参数随机化更重要
+  - 和我的联系：不能盲目地加入动力学随机化，重点应该减少延时、电机模型、速度反馈上的差异
+
 ## 2022.1.7
 
 - Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World
