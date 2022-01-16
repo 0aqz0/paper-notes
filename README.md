@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.1.13
+
+- Locomotion Skills for Simulated Quadrupeds
+  - 创新点：提出基于物理仿真的四足机器人的控制框架（关节控制＋虚拟力控制、模型抽象）并实现各种步态和技能
+  - 和我的联系：步态图通过归一化的相位表示，相似步态直接转换否则需要设计特定的转换控制器
+
 ## 2022.1.12
 
 - Dynamics Randomization Revisited: A Case Study for Quadrupedal Locomotion
