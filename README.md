@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.2.14
+
+- HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation
+  - 创新点：同时使用逆运动学和神经网络对人体3D位姿和形状进行估计，提高了求解的可解释权和利用了神经网络的灵活性，结合3D关键点估计和身体形状估计的优势
+  - 和我的联系：利用单目视频估计人体位姿，既可以做基于视频的动作迁移，也可以做人体状态估计
+
 ## 2022.1.13
 
 - Locomotion Skills for Simulated Quadrupeds
