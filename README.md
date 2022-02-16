@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.2.15
+
+- Deep learning can accelerate grasp-optimized motion planning
+  - 创新点：使用神经网络拟合优化结果作为优化的初值，从初值开始进一步优化，加快优化收敛速度，并进一步提升效果
+  - 和我的联系：同样使用神经网络得到优化的初值，但是不同之处在于优化使用的是二次规划算法，任务是物体抓取和放置
+
 ## 2022.2.14
 
 - HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation
