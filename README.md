@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.2.16
+
+- Stair Climbing Stabilization of the HRP-4 Humanoid Robot using Whole-body Admittance Control
+  - 创新点：提出结合末端和质心策略实现全身的阻抗控制，解决仿人双足机器人在开放工厂环境上楼梯问题
+  - 和我的联系：研究仿人双足机器人行走问题，采用传统控制算法（DCM控制+全身阻抗控制）
+
 ## 2022.2.15
 
 - Deep learning can accelerate grasp-optimized motion planning
