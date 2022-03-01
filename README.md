@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.3.1
+
+- Self-Supervised Motion Retargeting with Safety Guarantee
+  - 创新点：自监督方式生成数据进行训练，非参数回归保证动作可行性、安全性
+  - 和我的联系：通过自监督学习产生数据，能够避免由于数据量不足导致算法性能下降，类似于数据增广；安全性保证、从RGB视频进行动作迁移可以参考
+
 ## 2022.2.16
 
 - Stair Climbing Stabilization of the HRP-4 Humanoid Robot using Whole-body Admittance Control
