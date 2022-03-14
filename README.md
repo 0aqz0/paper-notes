@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.3.14
+
+- FrankMocap: A Monocular 3D Whole-Body Pose Estimation System via Regression and Integration
+  - 创新点：提出基于单目视觉的全身位姿估计算法（身体、手、脸），思路是不同部分分别回归最后进行融合，既保留了估计精度也提供了统一的位姿结果
+  - 和我的联系：整合这一模块可实现基于单目视觉的动作迁移
+
 ## 2022.3.1
 
 - Self-Supervised Motion Retargeting with Safety Guarantee
