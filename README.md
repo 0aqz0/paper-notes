@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.4.20
+
+- Neural kinematic networks for unsupervised motion retargetting
+  - 创新点：解决无监督数据的动作迁移问题，设计可微分的正运动学层使其能够直接优化关节旋转而无需真值，使用循环一致性损失（类似GAN）进行对抗学习
+  - 和我的联系：同样是使用可微分正运动学模块，设计无监督损失训练；损失函数可以尝试循环一致性损失
+
 ## 2022.4.19
 
 - Skeleton-aware networks for deep motion retargeting
