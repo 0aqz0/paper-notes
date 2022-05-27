@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.4.19
+
+- Skeleton-aware networks for deep motion retargeting
+  - 创新点：解决如何对不同拓扑结构（骨架长度、节点数）的骨架进行动作迁移的问题，假设不同结构对应相同的原始骨架（共享隐空间），再通过对应解码器生成动作，设计基于骨架的池化卷积算子
+  - 和我的联系：相同之处为按照图的方式进行建模和卷积，编码器-解码器架构；不同在于通过非配对数据训练目标骨架解码器，必须包含目标骨架的动作数据
+
 ## 2022.4.18
 
 - Contact-Aware Retargeting of Skinned Motion
