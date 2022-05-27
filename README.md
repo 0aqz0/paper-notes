@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.4.21
+
+- Learning Character-Agnostic Motion for Motion Retargeting in 2D
+  - 创新点：解决视频2D-2D动作迁移（不同骨架、动作、相机视角）问题，采用多编码器/单解码器结构，多编码器解耦骨架、动作、相机视角，单解码器根据不同的组合重建动作
+  - 和我的联系：输入输出模态不同，使用视频生成视频，可参考尝试视频输入
+
 ## 2022.4.20
 
 - Neural kinematic networks for unsupervised motion retargetting
