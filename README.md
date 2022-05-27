@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.4.18
+
+- Contact-Aware Retargeting of Skinned Motion
+  - 创新点：解决动作迁移中如何保留自接触和减少穿模的问题，通过基于几何的循环神经网络生成初解，再通过定义的能量函数优化（能量函数中考虑了自接触、减少穿模、地面接触、运动相似性等）
+  - 和我的联系：同样是在隐空间进行优化，优化的目标函数不同；动画人物的减少穿模、自接触也可以使用约束进行描述
+
 ## 2022.3.14
 
 - FrankMocap: A Monocular 3D Whole-Body Pose Estimation System via Regression and Integration
