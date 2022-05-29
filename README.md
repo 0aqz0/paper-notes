@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.5.27
+
+- Capturing Hands in Action using Discriminative Salient Points and Physics Simulation
+  - 创新点：解决手部动作捕捉中跟其他手或者物体的交互问题，通过结合生成模型和关键点检测、碰撞检测、物理仿真，构建目标函数解优化问题
+  - 和我的联系：涉及mesh碰撞检测可以用于动画人物重定向任务中减少穿模
+
 ## 2022.4.21
 
 - Learning Character-Agnostic Motion for Motion Retargeting in 2D
