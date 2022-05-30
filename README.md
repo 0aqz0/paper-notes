@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.5.28
+
+- DPCN++: Differentiable Phase Correlation Network for Versatile Pose Registration
+  - 创新点：解决不同模态的数据2D-3D位姿匹配问题，通过可微分的相位匹配模块解耦并求解位移、旋转、尺度7个自由度的相对位姿关系，结合特征提取网络进行端对端训练
+  - 和我的联系：基本思路是通过可学习参数的网络结合无学习参数可微分的模块进行训练
+
 ## 2022.5.27
 
 - Capturing Hands in Action using Discriminative Salient Points and Physics Simulation
