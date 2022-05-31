@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.5.29
+
+- Imitation and Adaptation Based on Consistency: A Quadruped Robot Imitates Animals from Videos Using Deep Reinforcement Learning
+  - 创新点：解决从视频中模仿四足机器人运动问题，从视频中提取关节关键点，通过动作适应模块生成参考轨迹，强化学习训练策略网络补偿参考轨迹并保持平衡
+  - 和我的联系：基本思路是参考轨迹加强化学习补偿，实物实验通过域随机化实现
+
 ## 2022.5.28
 
 - DPCN++: Differentiable Phase Correlation Network for Versatile Pose Registration
