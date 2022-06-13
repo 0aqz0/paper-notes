@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.6.10
+
+- Robots State Estimation and Observability Analysis Based on Statistical Motion Models
+  - 创新点：解决拓展卡尔曼滤波中控制量未知问题，通过白噪声统计模型代替控制量，并进行能观性分析
+  - 和我的联系：与人体位姿估计的建模方式类似，通过噪声近似模拟控制量，控制量需要更好建模
+
 ## 2022.5.29
 
 - Imitation and Adaptation Based on Consistency: A Quadruped Robot Imitates Animals from Videos Using Deep Reinforcement Learning
