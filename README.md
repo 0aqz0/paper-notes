@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.6.27
+
+- BlazePose: On-device Real-time Body Pose tracking
+  - 创新点：提出轻量级人体位姿估计算法能够在移动设备以每秒30帧运行
+  - 和我的联系：可以作为2D人体位姿检测模块用于卡尔曼滤波
+
 ## 2022.6.10
 
 - Robots State Estimation and Observability Analysis Based on Statistical Motion Models
