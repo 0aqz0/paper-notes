@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.6.28
+
+- NeMF: Neural Motion Fields for Kinematic Animation
+  - 创新点：使用隐空间表征一段连续的动作（通过输入t获得对应时刻的动作），并使用随机向量z控制动作风格，进而网络能够表征完整的连续动作空间
+  - 和我的联系：隐空间既可以表征单帧的动作，也可以用于表征连续动作；生成模型通过随机变量进行生成
+
 ## 2022.6.27
 
 - BlazePose: On-device Real-time Body Pose tracking
