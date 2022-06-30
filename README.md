@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.6.30
+
+- Masked World Models for Visual Control
+  - 创新点：将机器人视觉控制问题解耦为视觉表示学习、动力学模型学习，视觉表示学习使用掩码自编码器实现，动力学模型直接作用于自编码器得到的视觉表示
+  - 和我的联系：自编码器构建隐空间，动力学模型在隐空间上进行状态转移，可参考框架实现细节
+
 ## 2022.6.29
 
 - RaLL: End-to-end Radar Localization on Lidar Map Using Differentiable Measurement Model
