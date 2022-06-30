@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.6.29
+
+- RaLL: End-to-end Radar Localization on Lidar Map Using Differentiable Measurement Model
+  - 创新点：解决使用毫米波在雷达地图上进行定位的问题，将两种模态编码到共享的特征空间用于计算偏置的概率得到观测，使用可微分的卡尔曼滤波进行端对端训练
+  - 和我的联系：可以参考可微分卡尔曼滤波的框架进行人体位姿估计
+
 ## 2022.6.28
 
 - NeMF: Neural Motion Fields for Kinematic Animation
