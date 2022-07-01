@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.1
+
+- DayDreamer: World Models for Physical Robot Learning
+  - 创新点：提出世界模型预测未来用于减少与实际环境交互的次数，世界模型在隐空间上对未来进行预测
+  - 和我的联系：世界模型通过编码器将状态编码成隐变量，预测下一步隐变量，并使用解码器解码未来状态
+
 ## 2022.6.30
 
 - Masked World Models for Visual Control
