@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.3
+
+- Mastering Atari with Discrete World Models
+  - 创新点：提出直接从世界模型在隐空间上的预测进行学习的强化学习算法
+  - 和我的联系：隐空间上构建世界模型，在隐空间上的动力学模型可实现长期的预测；世界模型由编码器、循环状态空间模型、预测器组成
+
 ## 2022.7.1
 
 - DayDreamer: World Models for Physical Robot Learning
