@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.7
+
+- Monocap: Monocular human motion capture using a CNN coupled with a geometric prior
+  - 创新点：解决从无标记点的单目RGB图像中恢复人体三维位姿的问题，融合2D、3D和时序信息恢复人体三维位姿，2D信息通过CNN获得人体关节热力图，3D信息通过动作库获得人体骨架位姿的先验，EM算法最大化人体位姿的期望
+  - 和我的联系：解决从2D到3D的问题；构建更自然的人体位姿模型，通过对字典中人体位姿进行加权实现
+
 ## 2022.7.3
 
 - Mastering Atari with Discrete World Models
