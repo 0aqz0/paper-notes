@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.11
+
+- DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor
+  - 创新点：提出双层的人体表面表示方法，同时优化内部人体模型参数和外表面参数，实现实时从深度相机重建人体表面和跟踪关节动作
+  - 和我的联系：关注于人体表面重建问题，也需要初始化人体模型
+
 ## 2022.7.7
 
 - Monocap: Monocular human motion capture using a CNN coupled with a geometric prior
