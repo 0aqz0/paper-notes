@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.12
+
+- Stacked Hourglass Networks for Human Pose Estimation
+  - 创新点：提出沙漏型网络结构设计（先池化然后上采样和残差），提升2D人体位姿估计算法效果
+  - 和我的联系：可作为2D人体位姿模块提供卡尔曼滤波的观测
+
 ## 2022.7.11
 
 - DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor
