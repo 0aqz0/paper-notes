@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.17
+
+- MASD: A Multimodal Assembly Skill Decoding System for Robot Programming by Demonstration
+  - 创新点：提出多模态分层模型用于识别演示动作，以及优化算法将装配技能分割成多个动作
+  - 和我的联系：一段装配演示视频中包含多个技能，单个技能又包含多个动作；动作集是预定义的
+
 ## 2022.7.12
 
 - Stacked Hourglass Networks for Human Pose Estimation
