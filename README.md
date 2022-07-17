@@ -24,6 +24,12 @@
   - 创新点：提出直接从世界模型在隐空间上的预测进行学习的强化学习算法
   - 和我的联系：隐空间上构建世界模型，在隐空间上的动力学模型可实现长期的预测；世界模型由编码器、循环状态空间模型、预测器组成
 
+## 2022.7.2
+
+- Perception of Demonstration for Automatic Programing of Robotic Assembly: Framework, Algorithm, and Validation
+  - 创新点：提出概率感知框架同时推理装配演示中的动作和零件，动作通过SVM分类器分类，零件通过期望最大化算法估计位姿
+  - 和我的联系：PBD任务需要机器人通过传感器观测来理解人类专家的演示，并生成学习反馈
+
 ## 2022.7.1
 
 - DayDreamer: World Models for Physical Robot Learning
