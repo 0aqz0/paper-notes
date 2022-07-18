@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.18
+
+- Tracking People by Predicting 3D Appearance, Location & Pose
+  - 创新点：解决从单目视频中跟踪人体3D位姿问题，首先从单帧中估计3D位姿并进行预测，使用匈牙利算法对观测进行数据关联
+  - 和我的联系：整体框架接近（估计3D状态并进行预测，融合2D观测）；预测使用的是恒定速度模型；跟踪的不只是位姿还包括外观，能够多人跟踪；3D位姿表示是通过实际物理量来表征
+
 ## 2022.7.17
 
 - MASD: A Multimodal Assembly Skill Decoding System for Robot Programming by Demonstration
