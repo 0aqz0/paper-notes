@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.19
+
+- Forecasting Characteristic 3D Poses of Human Actions
+  - 创新点：提出预测语义上有意义的人体位姿（而不是一定时间间隔后的人体位姿），基于注意力机制设计编码器网络，并将关节角度概率分布建模为多个条件概率相乘
+  - 和我的联系：更关注于语义位姿预测任务，语义位姿有助于实现长时间预测
+
 ## 2022.7.18
 
 - Tracking People by Predicting 3D Appearance, Location & Pose
