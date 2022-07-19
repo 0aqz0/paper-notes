@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.21
+
+- Tracking People with 3D Representations
+  - 创新点：提出使用3D人体表示（外表、3D位姿）而不是2D人体表示跟踪视频中的人
+  - 和我的联系：都能估计3D人体位姿；人体位姿通过网络编码的特征向量表示；没有对未来预测
+
 ## 2022.7.20
 
 - Human Mesh Recovery from Multiple Shots
