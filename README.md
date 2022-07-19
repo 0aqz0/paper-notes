@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.7.20
+
+- Human Mesh Recovery from Multiple Shots
+  - 创新点：解决从包含跳变的视频中恢复人体蒙皮的问题，将问题建模为不同视角下的同一场景；将不同视角下的人体模型转换到标准视角，对平滑性进行优化，生成数据集用于训练
+  - 和我的联系： 可用于复杂场景下（视角变化、遮挡等）的人体蒙皮恢复任务
+
 ## 2022.7.19
 
 - Forecasting Characteristic 3D Poses of Human Actions
