@@ -12,6 +12,12 @@
   - 创新点：提出预测人体3D位姿的分布而不是确定量，不同的任务场景（估计3D位姿、结合2D关键点、多视角融合等）可以通过最大化分布概率和特定的任务损失实现
   - 和我的联系：人体3D位姿的分布通过Normalizing Flows进行表示而不是VAE，可以进行采样和概率计算
 
+## 2022.8.5
+
+- What Matters in Learning from Offline Human Demonstrations for Robot Manipulation
+  - 创新点：分析从人类离线数据中学习机器人操作技能的关键挑战，并提出在算法设计、示教数据质量等方面的建议
+  - 和我的联系：依赖历史数据的模型更加高效，观测空间和超参数的选择很重要，使用大规模人类数据集在复杂任务上表现更好
+
 ## 2022.7.22
 
 - Learning 3D Human Dynamics from Video
