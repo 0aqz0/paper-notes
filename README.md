@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.8
+
+- MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video
+  - 创新点：提出使用时间transformer建模每个关节的时序动作和空间transformer学习关节之间的空间关系，以更好地学习时空特征编码
+  - 和我的联系：考虑使用transformer模型学习时序特征，每个关节可以分开单独建模
+
 ## 2022.8.7
 
 - HuMoR: 3D Human Motion Model for Robust Pose Estimation
