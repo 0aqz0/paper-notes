@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.7
+
+- HuMoR: 3D Human Motion Model for Robust Pose Estimation
+  - 创新点：提出使用VAE作为生成模型学习人体位姿变化的分布，并将其作为动作先验从不同模态的观测中优化人体位姿估计的结果
+  - 和我的联系：学习位姿的变化量而不是绝对量，使用过去两帧的数据作为输入，训练损失包括重构损失、KL损失、正则化损失
+
 ## 2022.7.22
 
 - Learning 3D Human Dynamics from Video
