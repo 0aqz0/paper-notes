@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.9
+
+- Learning Object Manipulation Skills from Video via Approximate Differentiable Physics
+  - 创新点：提出求解可微分的常微分方程近似地模拟物理定律（重力、摩檫力、物体接触等），用于生成物理上可行的机器人动作轨迹
+  - 和我的联系：物理定律能以可微分的方式进行建模并用于优化问题
+
 ## 2022.8.8
 
 - MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video
