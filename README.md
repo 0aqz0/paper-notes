@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.10
+
+- CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation
+  - 创新点：结合全局位置信息和重新设计重投影误差用于解决人体3D位姿估计任务中丢失全局旋转信息的问题
+  - 和我的联系：使用SMPL模型作为人体模型表示，损失函数由SMPL损失、3D损失、2D损失组成
+
 ## 2022.8.9
 
 - Learning Object Manipulation Skills from Video via Approximate Differentiable Physics
