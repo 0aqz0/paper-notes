@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.20
+
+- Deep Kalman Filter
+  - 创新点：提出使用隐状态进行卡尔曼滤波的框架，并推导似然损失的下限用于监督网络的学习
+  - 和我的联系：都是隐空间进行卡尔曼滤波，偏向框架，任务不同；网络使用全连接网络和循环神经网络
+
 ## 2022.8.10
 
 - CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation
