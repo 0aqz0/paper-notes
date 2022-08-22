@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.22
+
+- Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
+  - 创新点：提出SMPL-X模型同时建模人体身体、手部和脸部，并能够通过求解优化问题从单张RGB图像中恢复人体三维模型
+  - 和我的联系：穿模损失可用于动画角色动作迁移，SMPL-X模型可用于人体位姿表示
+
 ## 2022.8.21
 
 - End-to-end Recovery of Human Shape and Pose
