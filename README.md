@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.23
+
+- 3D Human Pose Estimation with Spatial and Temporal Transformers
+  - 创新点：提出首个完全使用transformer模型代替卷积神经网络完成人体三维位姿估计任务，空间transformer和时间transformer分别提取时空特征
+  - 和我的联系：通过时序信息解决歧义问题，transformer网络结构更有效可用于代替动力学模型
+
 ## 2022.8.22
 
 - Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
