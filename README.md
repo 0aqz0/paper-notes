@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.28
+
+- AMASS: Archive of Motion Capture As Surface Shapes
+  - 创新点：提出将动捕数据转化为SMPL模型的优化算法（目标函数包含标记点位置、形状一致等），将多个动捕数据集格式统一化，解决动捕数据集数据格式不同、大小多样性有限的问题
+  - 和我的联系：能够用于人体数据采集，从动捕数据中恢复人体蒙皮数据
+
 ## 2022.8.23
 
 - 3D Human Pose Estimation with Spatial and Temporal Transformers
