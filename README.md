@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.8.29
+
+- Learning Kalman Network: A Deep Monocular Visual Odometry for On-Road Driving
+  - 创新点：提出基于神经网络的观测模型和状态转移模型用于单目视觉里程计卡尔曼滤波
+  - 和我的联系：都将卡尔曼滤波的观测模型和预测模型用网络代替，任务不同
+
 ## 2022.8.28
 
 - AMASS: Archive of Motion Capture As Surface Shapes
