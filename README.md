@@ -6,6 +6,12 @@
   - 创新点：提出使用稀疏传感器（头和双手）预测人体全身位姿（世界坐标系下），采用Transformer网络架构，解耦全局运动并通过逆运动学微调优化
   - 和我的联系：稀疏输入更适用于VR场景，可以尝试引入隐空间，没有考虑足底接触和形状
 
+## 2022.10.16
+
+- BlazePose GHUM Holistic: Real-time 3D Human Landmarks and Pose Estimation
+  - 创新点：提出轻量化实时3D人体位姿估计算法，神经网络前向传播，能够以15fps实时运行
+  - 和我的联系：能够实时估计人体3D位姿，坐标系以人体髋部为原点
+
 ## 2022.8.29
 
 - Learning Kalman Network: A Deep Monocular Visual Odometry for On-Road Driving
