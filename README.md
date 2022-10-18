@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.10.18
+
+- TEACH: Temporal Action Composition for 3D Humans
+  - 创新点：提出使用自然语言序列生成3D人类语义动作，采用Transformer架构生成平滑过渡动作（conditioned在上一个动作的最后几帧）
+  - 和我的联系：语义通过自然语言表征，可尝试自然语言生成动画角色动作
+
 ## 2022.10.17
 
 - AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing
