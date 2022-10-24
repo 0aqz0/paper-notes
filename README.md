@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.10.24
+
+- CoolMoves: User Motion Accentuation in Virtual Reality
+  - 创新点：提出实时生成丰富多样的VR虚拟形象全身动作，利用动捕数据库KNN匹配、插值合成动作
+  - 和我的联系：该算法能够实时生成全身动作，数据集规模较小，动作人物及类别有限，不一定适用于多样的人物和动作；没有考虑重定向问题
+
 ## 2022.10.18
 
 - TEACH: Temporal Action Composition for 3D Humans
