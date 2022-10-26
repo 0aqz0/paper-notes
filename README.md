@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.10.25
+
+- On The Continuity of Rotation Representations in Neural Networks
+  - 创新点：提出三维旋转的6D连续表示（格拉姆-施密特正交化后取旋转矩阵前两列），能够帮助神经网络更好地训练，欧拉角和四元数表示都不是连续表示
+  - 和我的联系：关节旋转数据可采用6D连续表示
+
 ## 2022.10.24
 
 - CoolMoves: User Motion Accentuation in Virtual Reality
