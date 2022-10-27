@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.10.26
+
+- On Self-Contact and Human Pose
+  - 创新点：提出包含自接触关系的人体位姿估计数据集和优化算法（将发生接触的顶点拉近，将穿模的顶点推离）
+  - 和我的联系：自接触的定义、优化目标函数可用于动作重定向
+
 ## 2022.10.25
 
 - On The Continuity of Rotation Representations in Neural Networks
