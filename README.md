@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.15
+
+- Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation
+  - 创新点：提出感知模型同时考虑衣服被遮挡的部分（测试时再优化的方法重建衣服），使用动力学模型进行机械臂规划
+  - 和我的联系：测试时再优化能进一步提升效果，动力学模型可通过额外数据集训练
+
 ## 2022.10.26
 
 - On Self-Contact and Human Pose
