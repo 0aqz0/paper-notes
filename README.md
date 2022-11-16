@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.16
+
+- Model simplification using vertex-clustering
+  - 创新点：提出顶点聚类算法简化三维物体模型，能实现低计算开销、高数据压缩率、高质量和平滑性
+  - 和我的联系：可用于简化动画角色人物的蒙皮，加速计算过程
+
 ## 2022.11.15
 
 - Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation
