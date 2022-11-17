@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.17
+
+- Action-Conditioned 3D Human Motion Synthesis with Transformer VAE
+  - 创新点：提出基于Transformer的变分自编码器学习人类动作的隐式表示，将Transformer和VAE结合，能够根据动作类别、时间长度生成多样变长的人类动作，隐式表示表征整个动作序列
+  - 和我的联系：可尝试使用Transformer结构，隐式表示既可以表征单帧也可以表征序列
+
 ## 2022.11.16
 
 - Model simplification using vertex-clustering
