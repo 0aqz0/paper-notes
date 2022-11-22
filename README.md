@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.22
+
+- TEMOS: Generating diverse human motions from textual descriptions
+  - 创新点：提出从文本到三维人类动作的生成模型，生成动作的分布而不是单一动作，基于Transformer结构和BERT语言模型，通用性强可用于SMPL模型
+  - 和我的联系：SMPL实验可用于验证通用性，语言处理可使用预训练大规模语言模型
+
 ## 2022.11.17
 
 - Action-Conditioned 3D Human Motion Synthesis with Transformer VAE
