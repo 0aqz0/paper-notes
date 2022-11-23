@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.23
+
+- Embodied hands: Modeling and capturing hands and bodies together
+  - 创新点：提出手部模型MANO，结合人体模型SMPL（SMPL+H）同时建模人体身体和手部
+  - 和我的联系：结合手部和身体可作为创新点，全身一体的建模能让虚拟角色的行为更真实
+
 ## 2022.11.22
 
 - TEMOS: Generating diverse human motions from textual descriptions
