@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.28
+
+- Stochastic Scene-Aware Motion Prediction
+  - 创新点：提出目标驱动的角色-场景交互的生成模型，由目标网络、动作网络、路径规划组成
+  - 和我的联系：类似于机器人导航问题，不同点在于将机器人换成了人体模型；模型架构cVAE
+
 ## 2022.11.23
 
 - Embodied hands: Modeling and capturing hands and bodies together
