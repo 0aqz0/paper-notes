@@ -12,6 +12,12 @@
   - 创新点：提出从文本到三维人类动作的生成模型，生成动作的分布而不是单一动作，基于Transformer结构和BERT语言模型，通用性强可用于SMPL模型
   - 和我的联系：SMPL实验可用于验证通用性，语言处理可使用预训练大规模语言模型
 
+## 2022.11.21
+
+- Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
+  - 创新点：提出通用框架解决从单目RGB图像中估计三维人体绝对位姿的问题，由人体检测器、根关节三维位置定位、相对根关节的位姿估计组成
+  - 和我的联系：估计绝对位姿而不是相对位姿，框架通用性可兼容不同的以前的方法
+
 ## 2022.11.17
 
 - Action-Conditioned 3D Human Motion Synthesis with Transformer VAE
