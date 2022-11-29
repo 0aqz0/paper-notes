@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.29
+
+- Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation
+  - 创新点：提出精确手部位姿估计算法，结合掌指关节信息估计手腕旋转，去除身体信息估计手指
+  - 和我的联系：能够代替Frankmocap提供手部位姿更精确的估计
+
 ## 2022.11.28
 
 - Stochastic Scene-Aware Motion Prediction
