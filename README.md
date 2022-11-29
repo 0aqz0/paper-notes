@@ -6,6 +6,12 @@
   - 创新点：提出目标驱动的角色-场景交互的生成模型，由目标网络、动作网络、路径规划组成
   - 和我的联系：类似于机器人导航问题，不同点在于将机器人换成了人体模型；模型架构cVAE
 
+## 2022.11.24
+
+- Attention Is All You Need
+  - 创新点：提出Transformer模型只使用自注意力机制和全连接层，不需要循环神经网络或卷积神经网络，位置编码用于获得位置信息
+  - 和我的联系：可尝试使用Transformer模型，可参考注意力机制算法流程
+
 ## 2022.11.23
 
 - Embodied hands: Modeling and capturing hands and bodies together
