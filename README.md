@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.12.7
+
+- An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+  - 创新点：在序列建模任务上深入对比卷积神经网络和循环神经网络，提出通用的TCN网络模型（因果卷积、膨胀卷积、残差连接）达到比一般RNN网络更好的性能
+  - 和我的联系：可参考TCN结构进行时序信息提取
+
 ## 2022.11.30
 
 - Auto-Encoding Variational Bayes
