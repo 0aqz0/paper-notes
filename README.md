@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.11.30
+
+- Auto-Encoding Variational Bayes
+  - 创新点：提出自编码变分贝叶斯求解算法和变分自编码器结构，学习有向概率图模型的隐分布以及数据生成
+  - 和我的联系：隐变量可用于状态表征，变分自编码器结构可用于数据生成
+
 ## 2022.11.29
 
 - Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation
