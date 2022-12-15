@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2022.12.15
+
+- BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis
+  - 创新点：提出包含动捕、表情、语音、文本的大规模人类数据集用于数字人动作合成，以及多模态输入的基准模型和语义评估指标
+  - 和我的联系：可用于验证手部动作重定向算法以及判断语义一致性
+
 ## 2022.12.7
 
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
