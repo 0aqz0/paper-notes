@@ -6,6 +6,12 @@
   - 创新点：提出包含动捕、表情、语音、文本的大规模人类数据集用于数字人动作合成，以及多模态输入的基准模型和语义评估指标
   - 和我的联系：可用于验证手部动作重定向算法以及判断语义一致性
 
+## 2022.12.14
+
+- RT-1: Robotics Transformer for Real-World Control at Scale
+  - 创新点：提出使用任务未知的训练和高容量模型实现多任务可泛化的机器人策略，Transformer模型编码语言指令、图像信息输出机器人指令
+  - 和我的联系：机器人任务中可采用类似自然语言处理、计算机视觉的大规模模型
+
 ## 2022.12.7
 
 - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
