@@ -6,6 +6,12 @@
   - 创新点：提出统一的人体动作生成模型，能够适用于不同的任务和不同的骨架（长度比例、初始姿态、关节点个数）
   - 和我的联系：骨架适应器相当于不同骨架之间的重定向，直接处理旋转角，排列矩阵类似于旋转角复制，需要监督数据进行优化，再优化后相当于一对一不能共享参数，使用拓扑信息计算解释性更强
 
+## 2023.1.9
+
+- Skeleton-free Pose Transfer for Stylized 3D Characters
+  - 创新点：提出不需要骨架的角色位姿迁移方法，将角色模型分解为独立部分，预测角色的蒙皮权重和位姿变换矩阵
+  - 和我的联系：可尝试不只是优化关节角，同时优化蒙皮权重和变换矩阵
+
 ## 2022.12.15
 
 - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis
