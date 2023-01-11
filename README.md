@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.11
+
+- PhysDiff: Physics-Guided Human Motion Diffusion Model
+  - 创新点：提出考虑物理约束的扩散模型，使用物理仿真训练的动作模仿策略加入物理约束
+  - 和我的联系：可尝试加入物理仿真器或者物理约束解决滑步、穿模等问题
+
 ## 2023.1.10
 
 - Pretrained Diffusion Models for Unified Human Motion Synthesis
