@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.10
+
+- Pretrained Diffusion Models for Unified Human Motion Synthesis
+  - 创新点：提出统一的人体动作生成模型，能够适用于不同的任务和不同的骨架（长度比例、初始姿态、关节点个数）
+  - 和我的联系：骨架适应器相当于不同骨架之间的重定向，直接处理旋转角，排列矩阵类似于旋转角复制，需要监督数据进行优化，再优化后相当于一对一不能共享参数，使用拓扑信息计算解释性更强
+
 ## 2022.12.15
 
 - BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis
