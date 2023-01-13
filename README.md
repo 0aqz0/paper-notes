@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.12
+
+- RigNet: Neural Rigging for Articulated Characters
+  - 创新点：提出端到端的角色骨架绑定网络（骨架关节预测、关节连接性预测、蒙皮权重预测）
+  - 和我的联系：可尝试将角色蒙皮面片作为输入，GMEdgeNet可用于提取角色形状特征
+
 ## 2023.1.11
 
 - PhysDiff: Physics-Guided Human Motion Diffusion Model
