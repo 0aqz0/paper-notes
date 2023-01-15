@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.13
+
+- Denoising Diffusion Probabilistic Models
+  - 创新点：提出DDPM模型，重参数化并简化扩散模型的目标函数，建立扩散概率模型和降噪分数匹配之间的关联
+  - 和我的联系：可作为SOTA生成模型使用（图像、动作等）
+
 ## 2023.1.12
 
 - RigNet: Neural Rigging for Articulated Characters
