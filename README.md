@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.16
+
+- Teleoperation of Humanoid Robots: A Survey
+  - 创新点：仿人机器人遥操作的综述（遥操作系统和设备、仿人机器人重定向和控制、辅助遥操作、通讯信道、评估指标、应用和发展前景）
+  - 和我的联系：系统架构基本由重定向和规划、稳定器、全身控制器、关节控制组成
+
 ## 2023.1.13
 
 - Denoising Diffusion Probabilistic Models
