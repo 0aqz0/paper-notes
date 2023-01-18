@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.18
+
+- Executing your Commands via Motion Diffusion in Latent Space
+  - 创新点：结合变分自编码器和扩散模型，在降维的隐空间上表征动作和条件输入（文本、动作类别），加快模型收敛和计算时间
+  - 和我的联系：可参考文本-动作、动作-动作网络设计结构
+
 ## 2023.1.16
 
 - Teleoperation of Humanoid Robots: A Survey
