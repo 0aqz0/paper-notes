@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.19
+
+- Transferring and Animating a non T-pose Model to a T-pose Model
+  - 创新点：提出从任意位姿转换为T pose的方法，计算起始和最终位姿再线性插值
+  - 和我的联系：可用于生成位姿转换过程的中间位姿
+
 ## 2023.1.18
 
 - Executing your Commands via Motion Diffusion in Latent Space
