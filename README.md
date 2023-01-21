@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.20
+
+- MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency
+  - 创新点：提出从单目视频中重建人体动作，将视频中提取的二维关节位置映射为静态骨架、动态旋转数据，确保骨架一致性
+  - 和我的联系：结合人体位姿估计和动作重定向；使用关节角速度计算对抗损失以获得合理的关节速度
+
 ## 2023.1.19
 
 - Transferring and Animating a non T-pose Model to a T-pose Model
