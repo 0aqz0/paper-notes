@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.21
+
+- Action2Motion: Conditioned Generation of 3D Human Motions
+  - 创新点：提出给定动作类别生成人类动作的问题（动作识别问题的逆过程），采用时序变分自编码器结构作为生成模型，以及李代数表示旋转
+  - 和我的联系：可提供动作类别到人类动作的数据集
+
 ## 2023.1.20
 
 - MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency
