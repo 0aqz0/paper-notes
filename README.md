@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.22
+
+- Learning Transferable Visual Models From Natural Language Supervision
+  - 创新点：提出从自然语言中学习视觉表征实现零样本学习，图像和文本编码器学习表征并计算相似性
+  - 和我的联系：对比表征学习（图像和文本的相似性分数）；文本编码器提取语义表征
+
 ## 2023.1.21
 
 - Action2Motion: Conditioned Generation of 3D Human Motions
