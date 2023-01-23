@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.23
+
+- Generating Diverse and Natural 3D Human Motions from Text
+  - 创新点：提出从文本中生成多样和变长的人类动作分布（动作自编码器、从文本预测动作长度、从文本和动作长度生成动作），并构建了大规模人类动作数据集
+  - 和我的联系：可作为从文本到动作的基准模型
+
 ## 2023.1.22
 
 - Learning Transferable Visual Models From Natural Language Supervision
