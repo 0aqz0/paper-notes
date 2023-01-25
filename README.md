@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.26
+
+- Imitation Learning of Dual-Arm Manipulation Tasks in Humanoid Robots
+  - 创新点：提出使用隐马尔科夫模型学习人类演示动作并在双臂仿人机器人复现
+  - 和我的联系：隐马尔科夫模型是深度学习兴起前的重要方法之一
+
 ## 2023.1.25
 
 - Gaze-Based Dual Resolution Deep Imitation Learning for High-Precision Dexterous Robot Manipulation
