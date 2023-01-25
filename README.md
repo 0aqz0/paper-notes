@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.25
+
+- Gaze-Based Dual Resolution Deep Imitation Learning for High-Precision Dexterous Robot Manipulation
+  - 创新点：提出利用人类注视数据学习穿针任务，先用低分辨率图像靠近目标，再用高分辨率图像精准控制穿针
+  - 和我的联系：涉及灵巧操作任务、不同状态切换、从失败状态恢复
+
 ## 2023.1.24
 
 - Transformer-based deep imitation learning for dual-arm robot manipulation
