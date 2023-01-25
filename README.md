@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.24
+
+- Transformer-based deep imitation learning for dual-arm robot manipulation
+  - 创新点：提出采用Transformer的自注意力架构关注重要的输入特征，用于解决双臂操作任务
+  - 和我的联系：可参考改进网络模型结构
+
 ## 2023.1.23
 
 - Generating Diverse and Natural 3D Human Motions from Text
