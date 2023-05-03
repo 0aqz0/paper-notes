@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.28
+
+- PADL: Language-Directed Physics-Based Character Control
+  - 创新点：提出通过自然语言交互控制物理仿真角色的算法，由技能表征（动作、自然语言共享隐空间）、策略训练（使用隐变量加强化学习训练仿真角色）和多任务聚合（多选择问答确定调用哪种策略）三部分组成
+  - 和我的联系：加入自然语言作为交互方式，但限制在任务+技能；策略训练采用对抗模仿学习
+
 ## 2023.1.27
 
 - DReCon: Data-Driven Responsive Control of Physics-Based Characters
