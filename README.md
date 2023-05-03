@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.1.27
+
+- DReCon: Data-Driven Responsive Control of Physics-Based Characters
+  - 创新点：提出用户实时控制物理仿真角色的算法，由运动学控制器（动作匹配）和仿真角色控制器（强化学习）两部分组成
+  - 和我的联系：自动生成物理仿真角色以匹配人类身体结构；基于强化学习训练物理角色控制器
+
 ## 2023.1.26
 
 - Imitation Learning of Dual-Arm Manipulation Tasks in Humanoid Robots
