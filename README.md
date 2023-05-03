@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.3
+
+- Learning Physically Simulated Tennis Skills from Broadcast Videos
+  - 创新点：提出从视频中学习物理仿真角色网球技能的算法，由视频动作估计（人体位姿估计）、物理仿真修正（物理仿真训练模仿策略）、动作表征（动作变分自编码器）和上层策略控制（直接输出隐变量和关节修正量）四部分组成
+  - 和我的联系：多种动作模仿算法整合成系统；物理仿真修正部分与其他工作类似
+
 ## 2023.1.28
 
 - PADL: Language-Directed Physics-Based Character Control
