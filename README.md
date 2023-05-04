@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.4
+
+- Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis
+  - 创新点：提出使用虚拟力对仿人模型跟人类模型动力学不一致进行补偿，实现模仿复杂人类动作和动作生成（运动学策略生成未来动作+控制策略在物理仿真模仿）
+  - 和我的联系：对强化学习模仿动作进行改进，拓展至更复杂的动作；无法应用于实物机器人
+
 ## 2023.5.3
 
 - Learning Physically Simulated Tennis Skills from Broadcast Videos
