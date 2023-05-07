@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.6
+
+- DiffMimic: Efficient Motion Mimicking with Differentiable Physics
+  - 创新点：提出采用可微分物理仿真进行动作模仿，化简为状态匹配问题并直接通过梯度优化策略，并通过演示重放策略减少局部最优和长序列梯度爆炸/消失
+  - 和我的联系：相对于强化学习算法不需要奖励设计，具有更高的样本效率和收敛速度
+
 ## 2023.5.5
 
 - AvatarGen: a 3D Generative Model for Animatable Human Avatars
