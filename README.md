@@ -24,6 +24,12 @@
   - 创新点：提出从视频中学习物理仿真角色网球技能的算法，由视频动作估计（人体位姿估计）、物理仿真修正（物理仿真训练模仿策略）、动作表征（动作变分自编码器）和上层策略控制（直接输出隐变量和关节修正量）四部分组成
   - 和我的联系：多种动作模仿算法整合成系统；物理仿真修正部分与其他工作类似
 
+## 2023.1.30
+
+- DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills
+  - 创新点：提出使用强化学习算法进行物理仿真角色的动作模仿，结合动作模仿奖励和任务目标奖励
+  - 和我的联系：在物理仿真中进行动作模仿的经典算法（强化学习）
+
 ## 2023.1.29
 
 - MotionCLIP: Exposing Human Motion Generation to CLIP Space
