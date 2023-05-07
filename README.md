@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.5
+
+- AvatarGen: a 3D Generative Model for Animatable Human Avatars
+  - 创新点：提出可控制外表、姿态和相机视角的非刚体虚拟形象生成算法，使用二维图像训练而不需要多视角三维数据训练
+  - 和我的联系：不同于预定义的模板驱动虚拟角色，采用参数化人体模型引导的三平面表征并进行图像渲染
+
 ## 2023.5.4
 
 - Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis
