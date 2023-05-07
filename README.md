@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.7
+
+- Skinned Motion Retargeting with Residual Perception of Motion Semantics & Geometry
+  - 创新点：提出残差动作重定向网络保留动作语义（关节归一化距离矩阵）、接触信号和减少穿模（排斥和吸引距离场），先进行关节角复制再进行微调
+  - 和我的联系：动作重定向中考虑了动作语义，不足是通过人为定义的
+
 ## 2023.5.6
 
 - DiffMimic: Efficient Motion Mimicking with Differentiable Physics
