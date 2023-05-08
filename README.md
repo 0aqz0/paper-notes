@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.8
+
+- MoDi: Unconditional Motion Synthesis from Diverse Data
+  - 创新点：提出从多样化非结构无标签数据中训练的无监督动作生成算法，基于StyleGAN结构支持语义聚类、编辑等下游任务
+  - 和我的联系：编码器能将真实动作映射到正常自然的隐空间，避免病态问题
+
 ## 2023.5.7
 
 - Skinned Motion Retargeting with Residual Perception of Motion Semantics & Geometry
