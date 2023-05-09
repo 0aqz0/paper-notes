@@ -42,6 +42,12 @@
   - 创新点：提出为物理仿真角色学习可复用技能编码的算法（预训练和任务训练），克服每个任务从头开始训练、训练难度大、任务奖励设计复杂耗时、容易产生不自然的动作等问题
   - 和我的联系：可用于训练通用的动作模仿，顶层策略在隐空间控制底层策略
 
+## 2023.2.1
+
+- PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting
+  - 创新点：提出将局部位姿和全局运动解耦的动作重定向算法，并对全局运动进行归一化处理
+  - 和我的联系：类似的架构（局部旋转和根关节位移）和归一化处理，不足是只能处理单一拓扑
+
 ## 2023.1.31
 
 - VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training
