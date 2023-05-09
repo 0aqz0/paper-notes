@@ -36,6 +36,12 @@
   - 创新点：提出从视频中学习物理仿真角色网球技能的算法，由视频动作估计（人体位姿估计）、物理仿真修正（物理仿真训练模仿策略）、动作表征（动作变分自编码器）和上层策略控制（直接输出隐变量和关节修正量）四部分组成
   - 和我的联系：多种动作模仿算法整合成系统；物理仿真修正部分与其他工作类似
 
+## 2023.4.1
+
+- ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters
+  - 创新点：提出为物理仿真角色学习可复用技能编码的算法（预训练和任务训练），克服每个任务从头开始训练、训练难度大、任务奖励设计复杂耗时、容易产生不自然的动作等问题
+  - 和我的联系：可用于训练通用的动作模仿，顶层策略在隐空间控制底层策略
+
 ## 2023.1.31
 
 - VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training
