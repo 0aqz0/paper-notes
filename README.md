@@ -36,6 +36,12 @@
   - 创新点：提出从视频中学习物理仿真角色网球技能的算法，由视频动作估计（人体位姿估计）、物理仿真修正（物理仿真训练模仿策略）、动作表征（动作变分自编码器）和上层策略控制（直接输出隐变量和关节修正量）四部分组成
   - 和我的联系：多种动作模仿算法整合成系统；物理仿真修正部分与其他工作类似
 
+## 2023.1.31
+
+- VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training
+  - 创新点：提出简单高效的视频掩码自编码器，用于视频自监督预训练（加入掩码然后训练重构任务）
+  - 和我的联系：掩码自监督训练可用于在小数据集上更高效地学习特征
+
 ## 2023.1.30
 
 - DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills
