@@ -36,6 +36,12 @@
   - 创新点：提出从视频中学习物理仿真角色网球技能的算法，由视频动作估计（人体位姿估计）、物理仿真修正（物理仿真训练模仿策略）、动作表征（动作变分自编码器）和上层策略控制（直接输出隐变量和关节修正量）四部分组成
   - 和我的联系：多种动作模仿算法整合成系统；物理仿真修正部分与其他工作类似
 
+## 2023.4.2
+
+- Learning Humanoid Locomotion with Transformers
+  - 创新点：提出完全基于学习算法的仿人机器人控制算法（Transformer+RL+两阶段训练），并直接进行实物迁移（域随机化）
+  - 和我的联系：Transformers能够进行in-context learning而不需要再微调
+
 ## 2023.4.1
 
 - ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters
