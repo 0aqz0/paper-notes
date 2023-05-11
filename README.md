@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.9
+
+- A Scalable Approach to Control Diverse Behaviors for Physically Simulated Characters
+  - 创新点：提出为多样的异构动作学习统一的控制器模型（动作聚类，每种类别训练专家策略，然后训练一个通用策略）
+  - 和我的联系：解决了之前的方法每个动作单独训练一个模型的问题，可用于通用策略学习
+
 ## 2023.5.8
 
 - MoDi: Unconditional Motion Synthesis from Diverse Data
