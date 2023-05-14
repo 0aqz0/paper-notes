@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.14
+
+- CALM: Conditional Adversarial Latent Models for Directable Virtual Characters
+  - 创新点：提出有条件的对抗隐模型用于生成多样的用户交互的虚拟角色动作，顶层策略在隐空间控制底层策略，通过有限状态机组合不同的策略模型
+  - 和我的联系：基于物理仿真的虚拟角色动作生成，分层控制架构
+
 ## 2023.5.10
 
 - SimPoE: Simulated Character Control for 3D Human Pose Estimation
