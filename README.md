@@ -1,5 +1,12 @@
 # paper-notes
 
+## 2023.5.10
+
+- SimPoE: Simulated Character Control for 3D Human Pose Estimation
+  - 创新点：提出结合图像运动学推理和基于物理动力学建模的三维人体位姿估计算法（生成运动学估计后，再控制仿真角色执行），实现物理可行的人体位姿估计
+  - 和我的联系：先运动学后动力学的思路，可参考自动生成物理仿真模型
+
+
 ## 2023.5.9
 
 - A Scalable Approach to Control Diverse Behaviors for Physically Simulated Characters
