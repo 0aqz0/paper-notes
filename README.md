@@ -6,6 +6,12 @@
   - 创新点：提出有条件的对抗隐模型用于生成多样的用户交互的虚拟角色动作，顶层策略在隐空间控制底层策略，通过有限状态机组合不同的策略模型
   - 和我的联系：基于物理仿真的虚拟角色动作生成，分层控制架构
 
+## 2023.5.13
+
+- Transfer Learning of Shared Latent Spaces between Robots with Similar Kinematic Structure
+  - 创新点：提出共享高斯过程隐变量模型（每种机器人共享隐空间，但对应不同的解码器参数），用于结构相似机器人的知识迁移
+  - 和我的联系：共享隐空间的思想，不足是需要为每种机器人设计解码器
+
 ## 2023.5.10
 
 - SimPoE: Simulated Character Control for 3D Human Pose Estimation
