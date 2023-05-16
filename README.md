@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.5.15
+
+- Skeleton-Based Action Recognition with Directed Graph Neural Networks
+  - 创新点：提出基于有向图神经网络的动作识别算法，有向无环图建模人体关节骨骼，通过更新邻接矩阵参数自适应修改拓扑图结构
+  - 和我的联系：图的方式建模人体；自适应拓扑结构
+
 ## 2023.5.14
 
 - CALM: Conditional Adversarial Latent Models for Directable Virtual Characters
