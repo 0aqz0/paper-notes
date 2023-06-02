@@ -6,6 +6,12 @@
   - 创新点：提出高效的视觉-语言预训练策略用来降低大模型高昂的训练成本，冻结大模型的参数，采用查询Transformer构建视觉表征和语言表征之间的关系
   - 和我的联系：视觉表征和语言表征可推广到动作表征和语言表征，构建动作语义关系
 
+## 2023.6.1
+
+- Multicontact Motion Retargeting Using Whole-Body Optimization of Full Kinematics and Sequential Force Equilibrium
+  - 创新点：提出多接触动作重定向框架用于高自由度机器人遥操作（满足物理约束、安全平衡），将多接触动作构建为序列二次规划问题（非线性优化求解）
+  - 和我的联系：在动作重定向中考虑与环境接触，接触通过接触力进行表征
+
 ## 2023.5.15
 
 - Skeleton-Based Action Recognition with Directed Graph Neural Networks
