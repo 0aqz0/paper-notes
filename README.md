@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.6.2
+
+- BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+  - 创新点：提出高效的视觉-语言预训练策略用来降低大模型高昂的训练成本，冻结大模型的参数，采用查询Transformer构建视觉表征和语言表征之间的关系
+  - 和我的联系：视觉表征和语言表征可推广到动作表征和语言表征，构建动作语义关系
+
 ## 2023.5.15
 
 - Skeleton-Based Action Recognition with Directed Graph Neural Networks
