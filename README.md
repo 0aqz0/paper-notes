@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.6.8
+
+- AdaSGN: Adapting Joint Number and Model Size for Efficient Skeleton-Based Action Recognition
+  - 创新点：提出自适应减少骨架关节点数量以降低计算成本，实现轻量级的动作识别
+  - 和我的联系：自适应改变关节点数量，预定义不同关节点数量并通过策略网络进行选择
+
 ## 2023.6.2
 
 - BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
