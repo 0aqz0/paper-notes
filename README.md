@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.6.12
+
+- Learning Human Mesh Recovery in 3D Scenes
+  - 创新点：提出无需优化且考虑场景的人体蒙皮恢复算法（场景接触作为点云分类任务，交叉注意力构建人体位姿和场景几何的联合分布）
+  - 和我的联系：考虑了人体跟场景的接触，每个顶点判断是否发生接触
+
 ## 2023.6.8
 
 - AdaSGN: Adapting Joint Number and Model Size for Efficient Skeleton-Based Action Recognition
