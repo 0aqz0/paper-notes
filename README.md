@@ -6,6 +6,12 @@
   - 创新点：提出使用单一策略进行动作模仿（渐进地学习运动基元，并通过组合器进行切换），能够实现实时虚拟角色控制，并从失败状态中恢复，以及跟动作估计和生成算法结合
   - 和我的联系：能够适用于不同动作（在动作上泛化），缺点是训练成本高昂
 
+## 2023.6.20
+
+- Aura Mesh: Motion Retargeting to Preserve the Spatial Relationships between Skinned Characters
+  - 创新点：提出交互空间（对蒙皮进行膨胀，膨胀后的蒙皮进行碰撞检测）作为多个虚拟角色交互的语义表征，实现蒙皮层面（不是骨架层面）的交互语义保持
+  - 和我的联系：语义表征的一种方式，适用于多个角色的动作语义
+
 ## 2023.6.12
 
 - Learning Human Mesh Recovery in 3D Scenes
