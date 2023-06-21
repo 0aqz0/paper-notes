@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.6.21
+
+- Perpetual Humanoid Control for Real-time Simulated Avatars
+  - 创新点：提出使用单一策略进行动作模仿（渐进地学习运动基元，并通过组合器进行切换），能够实现实时虚拟角色控制，并从失败状态中恢复，以及跟动作估计和生成算法结合
+  - 和我的联系：能够适用于不同动作（在动作上泛化），缺点是训练成本高昂
+
 ## 2023.6.12
 
 - Learning Human Mesh Recovery in 3D Scenes
