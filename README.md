@@ -6,6 +6,12 @@
   - 创新点：提出了易操作且能实现全身运动控制的仿人机器人遥操作系统（人类穿戴VR头盔、惯性动作捕捉服，上本身动作映射，下半身动作模式判断）
   - 和我的联系：动作映射只考虑上半身，通过向量代数的方式计算关节角
 
+## 2023.6.28
+
+- System Design and Balance Control of a Novel Electrically-driven Wheel-legged Humanoid Robot
+  - 创新点：提出轮式腿足机器人同时实现轮式运动和行走运动（机械结构设计、动力驱动设计、平衡控制算法）
+  - 和我的联系：全身稳定控制采用线性二次型调节器实现
+
 ## 2023.6.21
 
 - Perpetual Humanoid Control for Real-time Simulated Avatars
