@@ -12,6 +12,12 @@
   - 创新点：提出轮式腿足机器人同时实现轮式运动和行走运动（机械结构设计、动力驱动设计、平衡控制算法）
   - 和我的联系：全身稳定控制采用线性二次型调节器实现
 
+## 2023.6.26
+
+- Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion
+  - 创新点：提出用户可控制的行人轨迹动画生成算法，由生成轨迹的扩散模型和基于物理仿真的仿人控制器组成
+  - 和我的联系：在基于物理的动作模仿的基础上加入了轨迹生成；动作模仿考虑了自身状态、环境特征、身体特征和目标轨迹
+
 ## 2023.6.21
 
 - Perpetual Humanoid Control for Real-time Simulated Avatars
