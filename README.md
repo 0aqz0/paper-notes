@@ -1,5 +1,11 @@
 # paper-notes
 
+##  2023.6.29
+
+- Intuitive and Versatile Full-body Teleoperation of A Humanoid Robot
+  - 创新点：提出了易操作且能实现全身运动控制的仿人机器人遥操作系统（人类穿戴VR头盔、惯性动作捕捉服，上本身动作映射，下半身动作模式判断）
+  - 和我的联系：动作映射只考虑上半身，通过向量代数的方式计算关节角
+
 ## 2023.6.21
 
 - Perpetual Humanoid Control for Real-time Simulated Avatars
