@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.7.13
+
+- VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models
+  - 创新点：提出结合语言大模型和视觉语言大模型，零样本学习实现面向开集物体的开集操作指令（大模型生成可操作性和约束价值地图，作为目标函数进行运动规划生成机器人末端轨迹）
+  - 和我的联系：可结合大模型监督动作生成
+
 ##  2023.6.29
 
 - Intuitive and Versatile Full-body Teleoperation of A Humanoid Robot
