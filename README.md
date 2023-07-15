@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.7.15
+
+- Learning Bipedal Walking On Planned Footsteps For Humanoid Robots
+  - 创新点：提出以落足点为输入的强化学习算法学习仿人机器人双足行走，能够实现全向走路、转弯、站立、爬楼梯
+  - 和我的联系：仿人机器人行走动作强化学习，不需要参考动作和演示
+
 ## 2023.7.13
 
 - VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models
