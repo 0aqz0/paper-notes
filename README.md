@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.7.16
+
+- Learning Bipedal Walking for Humanoids with Current Feedback
+  - 创新点：提出使用电流反馈和模拟力矩跟踪误差训练仿人机器人双足行走
+  - 和我的联系：通过在仿真中模拟实物的力矩跟踪误差，解决从仿真到实物的挑战
+
 ## 2023.7.15
 
 - Learning Bipedal Walking On Planned Footsteps For Humanoid Robots
