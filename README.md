@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.7.26
+
+- Retargeting Human-Object Interaction to Virtual Avatars
+  - 创新点：提出将人类-物体交互重定向至虚拟角色的任务（虚拟角色结构一致，物体相似但大小尺寸不一样），并定义物体空间映射关系，通过优化算法保持物体接触
+  - 和我的联系：增加了虚拟角色跟物体的交互，任务不同
+
 ## 2023.7.16
 
 - Learning Bipedal Walking for Humanoids with Current Feedback
