@@ -12,6 +12,12 @@
   - 创新点：提出全身抓取动作生成算法（同时建模全身动力学和灵巧的手指运动），给定人体初始姿态和物体位姿，通过变分自编码器和优化算法生成全身动作运动接近物体和手部抓取动作
   - 和我的联系：虚拟数字人和物体交互，不足之处在于没有考虑物理仿真和手部更多的操作
 
+## 2023.8.2
+
+- Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning
+  - 创新点：提出使用大量并行（GPU）物理仿真环境加快强化学习训练，并实现分钟级四足机器人行走任务学习
+  - 和我的联系：可使用IsaacGym通过GPU并行物理仿真运算加速训练
+
 ## 2023.7.26
 
 - Retargeting Human-Object Interaction to Virtual Avatars
