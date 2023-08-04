@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.4
+
+- GRAB: A Dataset of Whole-Body Human Grasping of Objects
+  - 创新点：提出全身抓取动作数据集（包含人体姿态、物体形状、接触等数据）和手部抓取姿态预测网络（条件变分自编码器、粗糙估计加微调）
+  - 和我的联系：可将该数据集用于人和物体接触的任务
+
 ## 2023.8.3
 
 - SAGA: Stochastic Whole-Body Grasping With Contact
