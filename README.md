@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.3
+
+- SAGA: Stochastic Whole-Body Grasping With Contact
+  - 创新点：提出全身抓取动作生成算法（同时建模全身动力学和灵巧的手指运动），给定人体初始姿态和物体位姿，通过变分自编码器和优化算法生成全身动作运动接近物体和手部抓取动作
+  - 和我的联系：虚拟数字人和物体交互，不足之处在于没有考虑物理仿真和手部更多的操作
+
 ## 2023.7.26
 
 - Retargeting Human-Object Interaction to Virtual Avatars
