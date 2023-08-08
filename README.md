@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.8
+
+- Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation
+  - 创新点：提出结合运动学和动力学的自我视角的人体位姿估计算法，能够同时考虑人体和物体的交互以及生成满足物理约束的估计结果
+  - 和我的联系：通用的人体动力学控制器能够在不同动作泛化，并用于引导运动学策略的学习
+
 ## 2023.8.4
 
 - GRAB: A Dataset of Whole-Body Human Grasping of Objects
