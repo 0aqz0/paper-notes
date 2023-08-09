@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.10
+
+- Decentralized Motor Skill Learning for Complex Robotic Systems
+  - 创新点：提出分布式的运动控制策略，能够自动解耦机器人电机分组保留必要的连接
+  - 和我的联系：在IsaacGym仿真环境训练仿人机器人行走
+
 ## 2023.8.9
 
 - Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion
