@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.9
+
+- Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion
+  - 创新点：提出统一的全身控制策略实现四足机器人加机械臂的的移动加操作任务，混合移动和操作的优势函数加速训练，根据历史状态在线估计环境外参实现实物迁移
+  - 和我的联系：解耦的控制策略可能造成性能下降，可通过统一的控制策略进行提升
+
 ## 2023.8.8
 
 - Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation
