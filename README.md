@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.12
+
+- Simultaneous global inverse kinematics and geometric parameter identification of human skeletal model from motion capture data
+  - 创新点：提出从动捕数据中同时求解逆运动学（获得关节轨迹）和几何参数辨识（人体骨架）的算法
+  - 和我的联系：通过虚拟关节表示链接结构的几何参数
+
 ## 2023.8.10
 
 - Decentralized Motor Skill Learning for Complex Robotic Systems
