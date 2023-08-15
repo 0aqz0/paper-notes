@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.13
+
+- Motion Retargeting for Humanoid Robots Based on Simultaneous Morphing Parameter Identification and Motion Optimization
+  - 创新点：提出同时求解变形参数辨识和动作优化问题的仿人机器人动作重定向算法，同时优化动作映射和运动规划能够减少误差并满足物理约束
+  - 和我的联系：考虑了动作学约束（关节速度加速度限制、ZMP约束保持平衡）
+
 ## 2023.8.12
 
 - Simultaneous global inverse kinematics and geometric parameter identification of human skeletal model from motion capture data
