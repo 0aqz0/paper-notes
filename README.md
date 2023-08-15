@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.15
+
+- AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System
+  - 创新点：提出统一通用的视觉遥操作系统支持不同的机械臂、灵巧手、仿真实物、相机参数
+  - 和我的联系：视觉遥操作中手部动作重定向采用关键点向量优化
+
 ## 2023.8.13
 
 - Motion Retargeting for Humanoid Robots Based on Simultaneous Morphing Parameter Identification and Motion Optimization
