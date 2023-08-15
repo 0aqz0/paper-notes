@@ -6,6 +6,12 @@
   - 创新点：提出统一通用的视觉遥操作系统支持不同的机械臂、灵巧手、仿真实物、相机参数
   - 和我的联系：视觉遥操作中手部动作重定向采用关键点向量优化
 
+## 2023.8.14
+
+- From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation
+  - 创新点：提出使用单个相机遥操作采集模仿学习数据，定制的灵巧手模型避免在线动作重定向，离线迁移至不同的灵巧手模型
+  - 和我的联系：遥操作过程中无需动作重定向，离线动作重定向采用关键点向量优化
+
 ## 2023.8.13
 
 - Motion Retargeting for Humanoid Robots Based on Simultaneous Morphing Parameter Identification and Motion Optimization
