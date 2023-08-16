@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.16
+
+- Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations
+  - 创新点：提出结合强化学习和模仿学习（人类示教数据）的灵巧手操作技能学习算法，能够实现复杂接触任务（物体放置、手上操作、开门、工具使用）
+  - 和我的联系：示教数据需要专家在虚拟现实中操作灵巧手进行采集
+
 ## 2023.8.15
 
 - AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System
