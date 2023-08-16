@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.17
+
+- Adaptive Whole-Body Manipulation in Human-to-Humanoid Multi-Contact Motion Retargeting
+  - 创新点：提出从人到仿人机器人的全身动作重定向算法（移动＋操作，多机器人二次规划问题），能够同时保持跟环境物体的接触和自适应物体的物理特性
+  - 和我的联系：全身动作重定向并考虑了跟环境的交互
+
 ## 2023.8.16
 
 - Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations
