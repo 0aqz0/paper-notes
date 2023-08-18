@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.18
+
+- Multi-Contact Motion Retargeting from Human to Humanoid Robot
+  - 创新点：提出从人类到仿人机器人在线和离线动作重定向框架，通过构建二次规划问题考虑了跟环境的接触
+  - 和我的联系：跟环境接触的动作重定向，不足之处在于接触情况发生改变需要离线
+
 ## 2023.8.17
 
 - Adaptive Whole-Body Manipulation in Human-to-Humanoid Multi-Contact Motion Retargeting
