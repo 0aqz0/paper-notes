@@ -42,6 +42,12 @@
   - 创新点：提出从动捕数据中同时求解逆运动学（获得关节轨迹）和几何参数辨识（人体骨架）的算法
   - 和我的联系：通过虚拟关节表示链接结构的几何参数
 
+## 2023.8.11
+
+- MuJoCo HAPTIX: A Virtual Reality System for Hand Manipulation
+  - 创新点：提出虚拟现实系统结合动作捕捉、物理仿真和立体可视化，可用于手操作物体数据采集
+  - 和我的联系：遥操作物理仿真中的灵巧手，可用于采集示教数据
+
 ## 2023.8.10
 
 - Decentralized Motor Skill Learning for Complex Robotic Systems
