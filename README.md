@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.20
+
+- DexPBT: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training
+  - 创新点：提出基于群体的分布式训练方法实现灵巧手＋单臂/双臂的复杂操作任务，并行训练多个策略保留最优不断进化（类似进化策略）
+  - 和我的联系：灵巧手结合单臂/双臂的操作任务（抓取和放置特定位置、抓取和扔到容器内、调整物体姿态、协同抓取和扔给对方）
+
 ## 2023.8.19
 
 - Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation
