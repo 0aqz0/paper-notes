@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.19
+
+- Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation
+  - 创新点：提出面向任务的手部动作重定向算法（结合动作相似目标和任务目标的优化），动作重定向得到专家示教数据进行灵巧手抓取的模仿学习
+  - 和我的联系：整体思路是动作重定向＋模仿学习，通过任务目标引入跟物体交互的约束
+
 ## 2023.8.18
 
 - Multi-Contact Motion Retargeting from Human to Humanoid Robot
