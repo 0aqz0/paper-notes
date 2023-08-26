@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.21
+
+- We are More than Our Joints Predicting how 3D Bodies Move
+  - 创新点：提出基于人体表面的标记点来预测人类运动的算法，在频域隐空间预测后通过身体模型恢复人体动作
+  - 和我的联系：通过标记点表征人体动作，而不是常见的使用关节位置表征
+
 ## 2023.8.20
 
 - DexPBT: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training
