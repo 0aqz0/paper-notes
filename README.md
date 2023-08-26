@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.22
+
+- ACE: Adversarial Correspondence Embedding for Cross Morphology Motion Retargeting from Human to Nonhuman Characters
+  - 创新点：提出从人类到非人类角色的跨形态学动作重定向算法，结合生成对抗网络和动作先验
+  - 和我的联系：跨形态学动作重定向；不足之处在于需要目标角色大量数据进行预训练，每个角色重新训练，只学习末端关节的对应关系
+
 ## 2023.8.21
 
 - We are More than Our Joints Predicting how 3D Bodies Move
