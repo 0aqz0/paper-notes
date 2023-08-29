@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.24
+
+- Language-Guided Generation of Physically Realistic Robot Motion and Control
+  - 创新点：提出基于自然语言指令的机器人动作生成和控制算法（扩充模型从语言生成人体动作+从人到机器人动作重定向+物理仿真强化学习+仿真到实物迁移）
+  - 和我的联系：基于现有算法实现从自然语言到机器人动作，思路也是运动学+动力学
+
 ## 2023.8.23
 
 - Human-like walking with toe supporting for humanoids
