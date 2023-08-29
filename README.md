@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.23
+
+- Human-like walking with toe supporting for humanoids
+  - 创新点：提出脚趾支撑的仿人机器人行走算法，基于传统步态算法增加脚趾支撑和摆腿动作，能够实现更接近于人类的行走步态
+  - 和我的联系：仿人机器人行走，增加脚趾关节能够更灵活
+
 ## 2023.8.22
 
 - ACE: Adversarial Correspondence Embedding for Cross Morphology Motion Retargeting from Human to Nonhuman Characters
