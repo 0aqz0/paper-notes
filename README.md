@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.25
+
+- GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots
+  - 创新点：提出基于形态学随机化的四足机器人通用控制算法，能够实现在不同四足机器人泛化
+  - 和我的联系：随机化机器人参数在不同机器人泛化
+
 ## 2023.8.24
 
 - Language-Guided Generation of Physically Realistic Robot Motion and Control
