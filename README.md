@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.8.26
+
+- DexMV: Imitation Learning for Dexterous Manipulation from Human Videos
+  - 创新点：提出灵巧手操作模仿学习框架，由视频采集、位姿估计、手部动作重定向和模仿学习组成
+  - 和我的联系：动作重定向（运动学轨迹）为模仿学习提供专家数据
+
 ## 2023.8.25
 
 - GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots
