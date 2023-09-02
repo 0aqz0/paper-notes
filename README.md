@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.9.2
+
+- DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots
+  - 创新点：提出可微分的连续最优控制框架，双层优化求解最优轨迹（重定向目标+最优控制目标），实现将动物或者动画动作重定向到四足机器人，
+  - 和我的联系：结合最优控制和动作重定向，人工定义关键点对应关系
+
 ## 2023.8.26
 
 - DexMV: Imitation Learning for Dexterous Manipulation from Human Videos
