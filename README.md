@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.9.3
+
+- Learning Kinematic Structure Correspondences Using Multi-Order Similarities
+  - 创新点：提出针对视频中的异构物体运动学结构的图匹配算法（高阶相似度：拓扑结构、运动学相关性、组合运动）
+  - 和我的联系：可用于从人到机器人动作映射，采用更复杂的图匹配特征提取，无需训练
+
 ## 2023.9.2
 
 - DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots
