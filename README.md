@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.9.4
+
+- Virtual Character Animation Based on Affordable Motion Capture and Reconfigurable Tangible Interfaces
+  - 创新点：提出使用有形的物理环境用户交互和动作捕捉辅助计算机动画生产
+  - 和我的联系：将用户交互数据重定向到动画人物动作；图节点相似度计算
+
 ## 2023.9.3
 
 - Learning Kinematic Structure Correspondences Using Multi-Order Similarities
