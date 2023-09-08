@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.9.8
+
+- Generative Adversarial Imitation Learning
+  - 创新点：提出结合生成对抗网络和模仿学习的算法，通过辨别器网络为策略学习提供奖励，辨别器学习如何区分专家策略和学习的策略
+  - 和我的联系：可用于从专家数据中进行模仿学习
+
 ## 2023.9.4
 
 - Virtual Character Animation Based on Affordable Motion Capture and Reconfigurable Tangible Interfaces
