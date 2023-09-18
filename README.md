@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.9.18
+
+- Benchmarking Potential Based Rewards for Learning Humanoid Locomotion
+  - 创新点：提出使用基于势能的奖励函数引导强化学习训练双足仿人机器人跑步
+  - 和我的联系：可参考状态空间、奖励函数设计
+
 ## 2023.9.8
 
 - Generative Adversarial Imitation Learning
