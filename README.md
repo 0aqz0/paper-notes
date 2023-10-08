@@ -1,5 +1,11 @@
 # paper-notes
 
+## 2023.10.8
+
+- Object Motion Guided Human Motion Synthesis
+  - 创新点：提出人类操作物体的全身动作生成算法（基于有条件的扩散模型、两阶段先手部动作再全身动作）
+  - 和我的联系：人跟物体交互动作学习；接触约束使用后处理
+
 ## 2023.9.18
 
 - Benchmarking Potential Based Rewards for Learning Humanoid Locomotion
